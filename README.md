@@ -24,7 +24,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone git@github.com:25mordad/8log.ir.git
+   git clone git@github.com:25mordad/8log-crawler.git
    ```
 
 2. Install dependencies:
